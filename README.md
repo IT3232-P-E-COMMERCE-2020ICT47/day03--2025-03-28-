@@ -24,8 +24,8 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Method:** GET
 - **Response:** "Hello Spring Boot!"
     ## output
-  
-   - ![Screenshot (969)](https://github.com/user-attachments/assets/9fa1de4c-b641-4cf1-90ac-c29ab3e18e42)
+
+  ![Screenshot (969)](https://github.com/user-attachments/assets/9fa1de4c-b641-4cf1-90ac-c29ab3e18e42)
 
 ### 2. Age Endpoint
 - **URL:** `/app/age/{age}`
