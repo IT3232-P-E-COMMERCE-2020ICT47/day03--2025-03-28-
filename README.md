@@ -82,9 +82,8 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Description:** Returns students sorted by GPA in ascending order
      ## output
 
-        -![Screenshot (976)](https://github.com/user-attachments/assets/73a5066e-4d1d-496d-9145-46b3bbe0d620)
-        -![Screenshot (977)](https://github.com/user-attachments/assets/5e4e3333-aff7-4cb8-a3db-4dd368616d10)
-
+        -![Screenshot (976)](https://github.com/user-attachments/assets/8fa276fa-7c53-4b1b-885d-2e0237423918)
+        -![Screenshot (977)](https://github.com/user-attachments/assets/52f53b39-0df9-4ba6-ac06-fd043fb74a5e)
 
 ## Student Model
 The `Student` class has the following attributes:
