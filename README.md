@@ -43,8 +43,7 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Description:** Returns the first predefined student (s1)
     ## output
 
-      -![Screenshot (971)](https://github.com/user-attachments/assets/c55a8381-1fb9-4387-8133-8e7ee4a2555a)
-
+-![Screenshot (971)](https://github.com/user-attachments/assets/65682061-6336-4d8b-b239-88b3b7424134)
 
 ### 4. Get All Students
 - **URL:** `/app/students`
@@ -52,10 +51,8 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Description:** Returns a list of all predefined students
     ## output
 
-       -![Screenshot (972)](https://github.com/user-attachments/assets/36aa6208-1bb0-4033-aee1-970c36384cdc)
-       -![Screenshot (973)](https://github.com/user-attachments/assets/3311f945-8a15-4955-ae8a-c92766bf5c4c)
-
-
+    ![Screenshot (973)](https://github.com/user-attachments/assets/29d443bf-aeb8-4a51-a474-f56d1a97f5b4)
+    ![Screenshot (972)](https://github.com/user-attachments/assets/401b2637-260f-4ad0-aa49-e25f8b8b9c9f)
 
 ### 5. Get Student by Registration Number
 - **URL:** `/app/students/{regNo}`
@@ -64,8 +61,7 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Example:** `/app/students/2020ICT47`
      ## output
 
-       - ![Screenshot (978)](https://github.com/user-attachments/assets/8d1f83c3-9b0e-4a92-92c6-49cccba3b887)
-
+  -![Screenshot (978)](https://github.com/user-attachments/assets/279a25ba-23f8-443f-a935-1396ed219e4e)
 
 ### 6. Get Students by Age Range
 - **URL:** `/app/ages`
@@ -73,17 +69,15 @@ This is a simple Spring Boot REST API for managing student information, providin
 - **Description:** Returns students between ages 20-23
      ## output
 
-       -![Screenshot (975)](https://github.com/user-attachments/assets/95912f6f-7417-4ac8-a125-3ad2f25cabb3)
-
+    -![Screenshot (975)](https://github.com/user-attachments/assets/a71d475b-d8a5-4230-90a5-e35550308adc)
 
 ### 7. Get Students Sorted by GPA
 - **URL:** `/app/students/gpa`
 - **Method:** GET
 - **Description:** Returns students sorted by GPA in ascending order
      ## output
-
-        -![Screenshot (976)](https://github.com/user-attachments/assets/8fa276fa-7c53-4b1b-885d-2e0237423918)
-        -![Screenshot (977)](https://github.com/user-attachments/assets/52f53b39-0df9-4ba6-ac06-fd043fb74a5e)
+    -![Screenshot (976)](https://github.com/user-attachments/assets/414b7aff-b63a-4fcd-9213-c620e70c25cf)
+    -![Screenshot (977)](https://github.com/user-attachments/assets/fba9a9c0-8365-418b-a2ed-8bdfc814d138)
 
 ## Student Model
 The `Student` class has the following attributes:
